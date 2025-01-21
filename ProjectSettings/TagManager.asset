@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - IllusionaryWall
+  - Obs
+  - Boss
+  - Firewall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - Border
+  - Firewall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1013983589
+    locked: 0
+  - name: Tile
+    uniqueID: 3686182933
+    locked: 0
+  - name: GrassBehindPlatform
+    uniqueID: 1971569265
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GrassOnPlatform
+    uniqueID: 2335512169
+    locked: 0
+  - name: Throw
+    uniqueID: 144522805
+    locked: 0
+  - name: UI
+    uniqueID: 2688516185
+    locked: 0
